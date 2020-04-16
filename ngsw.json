@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586728039280,
+  "timestamp": 1587075050943,
   "index": "https://iamaninda93.github.io/myFirstPwaDemo/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://iamaninda93.github.io/myFirstPwaDemo/favicon.ico",
         "https://iamaninda93.github.io/myFirstPwaDemo/index.html",
-        "https://iamaninda93.github.io/myFirstPwaDemo/main-es2015.743f9925e20df0a809e4.js",
-        "https://iamaninda93.github.io/myFirstPwaDemo/main-es5.743f9925e20df0a809e4.js",
+        "https://iamaninda93.github.io/myFirstPwaDemo/main-es2015.41893accbfb4d740d80a.js",
+        "https://iamaninda93.github.io/myFirstPwaDemo/main-es5.41893accbfb4d740d80a.js",
         "https://iamaninda93.github.io/myFirstPwaDemo/polyfills-es2015.a55a7e72e7be11a390cd.js",
         "https://iamaninda93.github.io/myFirstPwaDemo/polyfills-es5.2b2e3f987f899a545bf0.js",
         "https://iamaninda93.github.io/myFirstPwaDemo/runtime-es2015.0811dcefd377500b5b1a.js",
@@ -62,9 +62,9 @@
     "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://iamaninda93.github.io/myFirstPwaDemo/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
-    "https://iamaninda93.github.io/myFirstPwaDemo/index.html": "6289fe3bdd835dd913946d481bde198ae4406e3e",
-    "https://iamaninda93.github.io/myFirstPwaDemo/main-es2015.743f9925e20df0a809e4.js": "e0fcd3430a78dd09e60c97389e717361c46a2906",
-    "https://iamaninda93.github.io/myFirstPwaDemo/main-es5.743f9925e20df0a809e4.js": "99866156a275d001bf60dc58374a7347a44cc5f0",
+    "https://iamaninda93.github.io/myFirstPwaDemo/index.html": "98d258b86b8f8e4450103c958f3ac9e426ecbd55",
+    "https://iamaninda93.github.io/myFirstPwaDemo/main-es2015.41893accbfb4d740d80a.js": "f594cabea27cdea38316acd9e35616efda7291e9",
+    "https://iamaninda93.github.io/myFirstPwaDemo/main-es5.41893accbfb4d740d80a.js": "d803091f255c3b89a26fbc854d0c4e76d496d196",
     "https://iamaninda93.github.io/myFirstPwaDemo/polyfills-es2015.a55a7e72e7be11a390cd.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://iamaninda93.github.io/myFirstPwaDemo/polyfills-es5.2b2e3f987f899a545bf0.js": "e5472003c8575a8fca7583648df3905038faeb18",
     "https://iamaninda93.github.io/myFirstPwaDemo/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
