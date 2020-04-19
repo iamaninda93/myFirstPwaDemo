@@ -1,22 +1,18 @@
 {
   "configVersion": 1,
-  "timestamp": 1587143985387,
-  "index": "/myFirstPwaDemo/index.html",
+  "index": "https://iamaninda93.github.io/myFirstPwaDemo/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/myFirstPwaDemo/favicon.ico",
-        "/myFirstPwaDemo/index.html",
-        "/myFirstPwaDemo/main-es2015.743f9925e20df0a809e4.js",
-        "/myFirstPwaDemo/main-es5.743f9925e20df0a809e4.js",
-        "/myFirstPwaDemo/polyfills-es2015.a55a7e72e7be11a390cd.js",
-        "/myFirstPwaDemo/polyfills-es5.2b2e3f987f899a545bf0.js",
-        "/myFirstPwaDemo/runtime-es2015.0811dcefd377500b5b1a.js",
-        "/myFirstPwaDemo/runtime-es5.0811dcefd377500b5b1a.js",
-        "/myFirstPwaDemo/styles.51d6e0bdf171ecde14eb.css"
+        "https://iamaninda93.github.io/myFirstPwaDemo/favicon.ico",
+        "https://iamaninda93.github.io/myFirstPwaDemo/index.html",
+        "https://iamaninda93.github.io/myFirstPwaDemo/main.53bac2565d46ad456a28.js",
+        "https://iamaninda93.github.io/myFirstPwaDemo/polyfills.c73631205450cdf588fb.js",
+        "https://iamaninda93.github.io/myFirstPwaDemo/runtime.a66f828dca56eeb90e02.js",
+        "https://iamaninda93.github.io/myFirstPwaDemo/styles.d7e0e74f3c5d40dd24b6.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -27,14 +23,14 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/myFirstPwaDemo/assets/icons/icon-128x128.png",
-        "/myFirstPwaDemo/assets/icons/icon-144x144.png",
-        "/myFirstPwaDemo/assets/icons/icon-152x152.png",
-        "/myFirstPwaDemo/assets/icons/icon-192x192.png",
-        "/myFirstPwaDemo/assets/icons/icon-384x384.png",
-        "/myFirstPwaDemo/assets/icons/icon-512x512.png",
-        "/myFirstPwaDemo/assets/icons/icon-72x72.png",
-        "/myFirstPwaDemo/assets/icons/icon-96x96.png"
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-128x128.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-144x144.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-152x152.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-192x192.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-384x384.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-512x512.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-72x72.png",
+        "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -53,23 +49,20 @@
     }
   ],
   "hashTable": {
-    "/myFirstPwaDemo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/myFirstPwaDemo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/myFirstPwaDemo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/myFirstPwaDemo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/myFirstPwaDemo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/myFirstPwaDemo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/myFirstPwaDemo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/myFirstPwaDemo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/myFirstPwaDemo/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
-    "/myFirstPwaDemo/index.html": "ce9c5e554f8af482b2a91718516cd4d4974f0a69",
-    "/myFirstPwaDemo/main-es2015.743f9925e20df0a809e4.js": "e0fcd3430a78dd09e60c97389e717361c46a2906",
-    "/myFirstPwaDemo/main-es5.743f9925e20df0a809e4.js": "99866156a275d001bf60dc58374a7347a44cc5f0",
-    "/myFirstPwaDemo/polyfills-es2015.a55a7e72e7be11a390cd.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "/myFirstPwaDemo/polyfills-es5.2b2e3f987f899a545bf0.js": "e5472003c8575a8fca7583648df3905038faeb18",
-    "/myFirstPwaDemo/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/myFirstPwaDemo/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/myFirstPwaDemo/styles.51d6e0bdf171ecde14eb.css": "85bd1ba29c90bddc6611f7b800e08ac91c53ff20"
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://iamaninda93.github.io/myFirstPwaDemo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://iamaninda93.github.io/myFirstPwaDemo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://iamaninda93.github.io/myFirstPwaDemo/index.html": "3f35fffc18148a0aaa86d45709dcffcb5720e8d7",
+    "https://iamaninda93.github.io/myFirstPwaDemo/main.53bac2565d46ad456a28.js": "dc843c6358bec42b50ed2ed9441cdaf7de4fc16c",
+    "https://iamaninda93.github.io/myFirstPwaDemo/polyfills.c73631205450cdf588fb.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
+    "https://iamaninda93.github.io/myFirstPwaDemo/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://iamaninda93.github.io/myFirstPwaDemo/styles.d7e0e74f3c5d40dd24b6.css": "90e57ae0b3fc1e90173605f966d54d031f17aed1"
   },
   "navigationUrls": [
     {
@@ -78,15 +71,15 @@
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
     }
   ]
 }
